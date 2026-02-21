@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "OTT",
+  "base_artist": "IVE",
+  "createdAt": "2026-02-21T16:55:23.831400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OTT",
+      "artist": "easy life feat. BENEE",
+      "has_synced": true,
+      "path": "select/01_OTT_easy_life_feat._BENEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OTT",
+      "artist": "Easy Life",
+      "has_synced": true,
+      "path": "select/02_OTT_Easy_Life.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Around The World In A Tea Daze - Ott Remix",
+      "artist": "Shpongle",
+      "has_synced": false,
+      "path": "select/03_Around_The_World_In_A_Tea_Daze_-_Ott_Remix_Shpongle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Around The World In A Tea Daze (ott Remix)",
+      "artist": "Shpongle",
+      "has_synced": false,
+      "path": "select/04_Around_The_World_In_A_Tea_Daze_(ott_Remix)_Shpongle.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stereoact feat. Kerstin Ott - Die Immer Lacht (Official Video HD)",
+      "artist": "Kontor.TV",
+      "has_synced": true,
+      "path": "select/05_Stereoact_feat._Kerstin_Ott_-_Die_Immer_Lacht_(Official_Video_HD)_Kontor.TV.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "OTT",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/06_OTT_IVE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ott, ahol zúg az a négy folyó",
+      "artist": "Kárpátia",
+      "has_synced": false,
+      "path": "select/07_Ott,_ahol_zúg_az_a_négy_folyó_Kárpátia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Holland Ott",
+      "artist": "102 Boyz feat. Addikt102, Chapo102, Kkuba102 & Stacks102",
+      "has_synced": true,
+      "path": "select/08_Holland_Ott_102_Boyz_feat._Addikt102,_Chapo102,_Kkuba102_&_Stacks102.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "OTT",
+      "artist": "easy life & BENEE",
+      "has_synced": true,
+      "path": "select/09_OTT_easy_life_&_BENEE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Die immer lacht (Radio 2016 Mix) (feat. Kerstin Ott)",
+      "artist": "Stereoact",
+      "has_synced": true,
+      "path": "select/10_Die_immer_lacht_(Radio_2016_Mix)_(feat._Kerstin_Ott)_Stereoact.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "OTT",
+      "artist": "Easy Life, BENEE",
+      "has_synced": true,
+      "path": "select/11_OTT_Easy_Life,_BENEE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "OTT",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/12_OTT_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scheissmelodie (Madizin Single Mix) - Ott, Kerstin",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/13_Scheissmelodie_(Madizin_Single_Mix)_-_Ott,_Kerstin_Various.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "05. IVE - OTT",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/14_05._IVE_-_OTT_IVE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "OTT",
+      "artist": "easy life",
+      "has_synced": true,
+      "path": "select/15_OTT_easy_life.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "OTT feat. BENEE",
+      "artist": "easy life",
+      "has_synced": true,
+      "path": "select/16_OTT_feat._BENEE_easy_life.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ott - Smoked Glass And Chrome",
+      "artist": "Ott",
+      "has_synced": true,
+      "path": "select/17_Ott_-_Smoked_Glass_And_Chrome_Ott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OTT",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_OTT_IVE.txt"
+    }
+  ]
+}
